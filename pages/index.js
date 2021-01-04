@@ -14,8 +14,8 @@ export default function Home({allPostsData}) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-         Hello, I'm José a software engineer and co-host of Los Full Stackers.
-         You can contact me on <a href="https://twitter.com/jbetosalinas">Twitter</a>.
+         Hello, I'm José a software engineer and co-host of <a target="_blank" href="https://redcircle.com/shows/los-full-stackers">Los Full Stackers</a>.
+         You can contact me on <a target="_blank" href="https://twitter.com/jbetosalinas">Twitter</a>.
         </p>
       </section>
       {/* Keep the existing code here */}
